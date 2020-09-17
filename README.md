@@ -20,15 +20,24 @@
 
 <br>
 
-<!-- ![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav159&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav159&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vaibhav159's Github Stats">
+<h2>:zap: Github Stats </h2>
 
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav159&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Vaibhav159/github-readme-stats)
+<p align="center">
+    <!-- ![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav159&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav159&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="Vaibhav159's Github Stats">
+</p>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav159&layout=compact&hide=html&theme=radical" alt="Top Lang's" />
+</p>
+
+</br>
+</br>
+
+<center> <h3> 🤝🏻 Connect with Me </h3> </center>
 
 <p align="center"> 
 &nbsp; <a href="mailto:vlodha98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
