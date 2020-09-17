@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Vaibhav. <img src="Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Vaibhav. <img src="Hi.gif" width="25"> <img src="https://komarev.com/ghpvc/?username=Vaibhav159" alt="Vaibhav159" style = "float : right"/></h2>
 <img align="right" alt="GIF" src="gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -9,7 +9,7 @@
 - 💼 &nbsp; Backend developer.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -17,8 +17,7 @@
 - 🌐 &nbsp; String Boot | Django | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; Intellij | PyCharm | Visual Studio code | Git
-
-<br>
+  <br>
 
 <h2>:zap: Github Stats </h2>
 
