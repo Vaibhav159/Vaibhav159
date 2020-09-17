@@ -33,5 +33,5 @@
 <p align="center"> 
 &nbsp; <a href="mailto:vlodha98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/vaibhav-lodha/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="https://leetcode.com/vlodha98/" target="_blank" rel="noopener noreferrer"><img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="45" /></a>
+&nbsp; <a href="https://leetcode.com/vlodha98/" target="_blank" rel="noopener noreferrer"><img src="https://www.saashub.com/images/app/service_logos/66/782e488ee023/large.png?1565919645" width="50" /></a>
 </p>
