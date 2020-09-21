@@ -14,8 +14,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | Node.js
-- 🌐 &nbsp; String Boot | Django | HTML | CSS | JavaScript | Bootstrap
-- 🛢 &nbsp; MySQL | Firebase | MongoDB
+- 🌐 &nbsp; Spring Boot | Django | HTML | CSS | JavaScript | Bootstrap
+- 🛢 &nbsp; MySQL | Firebase | MongoDB | Redis | Azure
 - 🔧 &nbsp; Intellij | PyCharm | Visual Studio code | Git
   <br>
 
