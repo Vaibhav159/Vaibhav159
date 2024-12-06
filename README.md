@@ -1,45 +1,42 @@
-<h2> Hey there! I'm Vaibhav. <img src="Hi.gif" width="25"> <img src="https://komarev.com/ghpvc/?username=Vaibhav159" alt="Vaibhav159" style = "float : right"/></h2>
-<img align="right" alt="GIF" src="gif3.gif" width="500"/>
+<h2> Hey there! I'm Vaibhav. 👋 <img src="https://komarev.com/ghpvc/?username=Vaibhav159" alt="Vaibhav159" style="float:right" /></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Django Application Development.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Backend developer.
-- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
+- 🔭 &nbsp; Currently leading impactful projects as a **Technical Lead** at SquadStack.  
+- 🤖 &nbsp; Passionate about building scalable APIs, optimizing workflows, and developing AI-powered solutions like **Voice Bots**.  
+- 🎓 &nbsp; Bachelor of Technology in Computer Science with expertise in Python, AWS, and backend development.  
+- 🌟 &nbsp; Enthusiast in **Cloud Infrastructure**, **System Optimization**, and **Machine Learning Applications**.  
+- 🎨 &nbsp; Anime lover and occasional dabble in design trends.  
+- ☕ &nbsp; Firm believer that a great cup of coffee is the key to productivity.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | Node.js
-- 🌐 &nbsp; Spring Boot | Django | HTML | CSS | JavaScript | Bootstrap
-- 🛢 &nbsp; MySQL | Firebase | MongoDB | Redis | Azure
-- 🔧 &nbsp; Intellij | PyCharm | Visual Studio code | Git
-  <br>
+- **Languages**: Python | Java | JavaScript  
+- **Frameworks**: Spring Boot | Django | Flask  
+- **Databases**: Postgres | Redis | MySQL | Firebase | MongoDB  
+- **Cloud & DevOps**: AWS | Docker | Terraform | Azure  
+- **Tools**: Git | Metabase | PyCharm | IntelliJ | Visual Studio Code  
 
-<h2>:zap: Github Stats </h2>
-
-</br>
-</br>
+<h3>:zap: Github Stats</h3>
 
 <p align="center">
-    <!-- ![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav159&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav159&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="Vaibhav159's Github Stats">
 </p>
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav159&layout=compact&hide=html&theme=radical" alt="Top Lang's" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav159&layout=compact&hide=html&theme=radical" alt="Top Langs">
 </p>
 
-</br>
-</br>
+<h3> 🚀 Projects</h3>
 
-<center> <h3> 🤝🏻 Connect with Me </h3> </center>
+- **Voice Bot Orchestration Pipeline**: Built a robust voice bot system, enabling 5K+ calls within the first month and saving 50% operational costs.  
+- **Async API System**: Designed scalable APIs, boosting system throughput by 5x.  
+- **CodeCharm (Online IDE)**: Developed an IDE with features like search, replace, and file uploads, improving performance by 30%.  
+- **Stock Portfolio Manager**: Refactored and optimized a portfolio app, improving stability by 15%.  
+
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center"> 
-&nbsp; <a href="mailto:vlodha98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:vlodha98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/vaibhav-lodha/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="https://leetcode.com/vlodha98/" target="_blank" rel="noopener noreferrer"><img src="https://www.saashub.com/images/app/service_logos/66/782e488ee023/large.png?1565919645" width="50" /></a>
 </p>
