@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there! 👋 I'm Vaibhav! </h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Technical+Lead+%7C+Backend+Wizard;Scalable+API+Architect+%7C+AI+Enthusiast;Coffee+Lover+%7C+Anime+Binger" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Technical+Lead+%7C+Backend+Wizard;Scalable+API+Architect+%7C+AI+Enthusiast;Coffee+Lover+%7C+Anime+Binger" alt="Typing SVG" />
 </p>
 
 ---
