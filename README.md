@@ -82,9 +82,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vaibhav159&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Vaibhav159&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vaibhav159&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vaibhav159&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
